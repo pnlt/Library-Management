@@ -26,6 +26,7 @@ if(isset($_POST["action"]))
 			);
 		}
 		echo json_encode($data);
+		print("hello")
 	}
 
 	if($_POST["action"] == 'search_user_id')
