@@ -234,10 +234,10 @@
 This project was developed as part of our Agile Scrum final project by:
 
 - [Team Member 1](https://github.com/NinITWB) - Backend Developer
-- [Team Member 2](https://github.com/Khang) - Frontend Developer
+- [Team Member 2](#) - Frontend Developer
 - [Team Member 3](https://github.com/pnlt) - Database Engineer
-- [Team Member 4](https://github.com/Khoa) - Product Owner
-- [Team Member 5](https://github.com/Minh) - Scrum Master
+- [Team Member 4](https://github.com/phamkhoa1373) - Product Owner
+- [Team Member 5](#) - Scrum Master
 
 ## 📈 Development Process
 
@@ -255,5 +255,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Developed with ❤️ by Team [MPPKK]
+  Developed with ❤️ by Team MPPKK
 </p>
