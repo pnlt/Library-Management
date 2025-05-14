@@ -1,0 +1,68 @@
+# Library Management System .gitignore
+
+# Environment and configuration
+.env
+app/Config/config.local.php
+
+# Composer
+/vendor/
+composer.phar
+
+# User uploaded content
+/public/uploads/*
+!/public/uploads/.gitkeep
+
+# Cache and temporary files
+/cache/*
+!/cache/.gitkeep
+/tmp/*
+!/tmp/.gitkeep
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+nbproject/
+.vs/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+/logs/*
+!/logs/.gitkeep
+
+# Database dumps and backups
+*.sql
+*.bak
+*.dump
+!/database/lms.sql
+
+# Dependencies and packages
+/node_modules/
+/bower_components/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Generated files
+/public/assets/css/generated/
+/public/assets/js/generated/
+
+# Testing and documentation
+/phpunit.xml
+/doc/api/
+/coverage/
