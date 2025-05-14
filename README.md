@@ -237,7 +237,7 @@ This project was developed as part of our Agile Scrum final project by:
 - [Team Member 2](#) - Frontend Developer
 - [Team Member 3](https://github.com/pnlt) - Database Engineer
 - [Team Member 4](https://github.com/phamkhoa1373) - Product Owner
-- [Team Member 5](#) - Scrum Master
+- [Team Member 5](https://github.com/Dusklb) - Scrum Master
 
 ## 📈 Development Process
 
